@@ -1,0 +1,13 @@
+﻿*.pdf
+*.tgz
+project-simulation.html
+
+# Staging folder for files to be deleted
+delete/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+*~
