@@ -1,4 +1,4 @@
-# Dynamic Buffer Management with FSD in 5G NR Mixed Network
+# Dynamic FIFO Buffer Management for Low-Latency, Fair 5G NR Mixed Traffic
 
 Delay-driven dynamic buffer sizing (**Dyn**) and fair-share drop (**FSD**) for a plain FIFO queue, evaluated on 5G NR mixed traffic in ns-3 + 5G-LENA. Reproduces the six-AQM study of Naik et al. (COMSNETS 2025) and compares it with static FIFO sizes.
 
